@@ -13,4 +13,4 @@ progetto prog3
 
 - [ ] Giorno 6 (Fra 5 Giorni: Client Operazioni + Parallelismo): Send/Reply/Delete + thread. Tempo: 5h. Milestone: Invia email tra 2 client, auto-refresh.
 
-- [ ] Giorno 7 (Fra 6 Giorni: Test + Polish + Demo Prep): Integrazione, bug fix, scalabilità. Tempo: 4-5h. Milestone: Demo completa, script test, note per esa
+- [ ] Giorno 7 (Fra 6 Giorni: Test + Polish + Demo Prep): Integrazione, bug fix, scalabilità. Tempo: 4-5h. Milestone: Demo completa, script test, note per esame
